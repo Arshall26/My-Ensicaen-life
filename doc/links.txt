@@ -1,0 +1,4 @@
+- JavaFX
+    - https://riptutorial.com/javafx/example/7285/nested-controllers
+    - https://stackoverflow.com/questions/39757014/javafx-how-to-avoid-creating-one-huge-controller
+    - https://stackoverflow.com/questions/34785417/javafx-fxml-controller-constructor-vs-initialize-method

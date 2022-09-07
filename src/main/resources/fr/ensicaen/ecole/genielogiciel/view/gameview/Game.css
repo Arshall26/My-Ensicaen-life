@@ -1,0 +1,59 @@
+.root {
+    -fx-padding: 20 ;
+    cell-color: white ;
+    cell-border-color: black ;
+}
+.square {
+    -fx-background-color: cell-border-color, cell-color;
+    -fx-background-insets: 0, 1 1 1 1;
+    -fx-padding: 1;
+}
+
+.player {
+    -fx-background-color: cell-border-color, cell-color;
+    -fx-background-insets: 0, 1 1 1 1;
+}
+.icon {
+    -fx-background-size: contain;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+#angIcon {
+    -fx-background-image: url('../img/enseignement_eng.png');
+}
+
+#mathsIcon {
+    -fx-background-image: url('../img/enseignement_math.png');
+}
+
+#ecoIcon {
+    -fx-background-image: url('../img/enseignement_eco.png');
+}
+
+#infoIcon {
+    -fx-background-image: url('../img/enseignement_info.png');
+}
+
+#examIcon {
+    -fx-background-image: url('../img/examen.png');
+}
+
+#redoubleIcon {
+    -fx-background-image: url('../img/redoublement.png');
+}
+
+#antisecheIcon {
+    -fx-background-image: url('../img/antiseche.png');
+}
+
+#jeudiIcon {
+    -fx-background-image: url('../img/jeudi.png');
+}
+
+#soireeIcon {
+    -fx-background-image: url('../img/soiree.png');
+}
+
+#diplomeIcon {
+    -fx-background-image: url('../img/diplome.png');
+}

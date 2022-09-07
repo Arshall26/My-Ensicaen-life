@@ -1,0 +1,5 @@
+.leaderboard {
+    -fx-font-size: 20px;
+    -fx-background-color: cell-border-color, cell-color;
+    -fx-background-insets: 0, 1 1 1 1;
+}
